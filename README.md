@@ -1,3 +1,3 @@
 # stripedSails
 
-a [Sails](http://sailsjs.org) application
+## Basic Sails application with stripe integration example.
