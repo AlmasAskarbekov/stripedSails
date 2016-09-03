@@ -1,7 +1,7 @@
 /**
 * Stripe.js
 *
-* @description :: TODO: You might write a short summary of how this model works and what it represents here.
+* @description :: Stripe User clone with addition information to store charge amounts.
 * @docs        :: http://sailsjs.org/documentation/concepts/models-and-orm/models
 */
 var stripe = require('stripe')('sk_test_9j9IxZ0rLxWeMZqtAlgKf2HR');
