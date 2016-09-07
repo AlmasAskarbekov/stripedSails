@@ -2,6 +2,8 @@
 
 Basic Sails application with stripe integration example.
 
+For adding a credit card to stripe use `4242 4242 4242 4242` as the credit card number for the testing endpoint.
+
 # API/Create
 - `localhost:1337/api/stripe/create` - POST
 
@@ -59,7 +61,7 @@ Returns a list of all stripe customer current stored in stripe.
 ```
 {
     "id": 1,
-    "percent": 0.75 //Optional
+    "percent": 0.75 //Optional (defaults to 1)
 }
 ```
 
