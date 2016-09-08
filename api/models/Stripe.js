@@ -15,7 +15,7 @@ module.exports = {
             email: true
         },
         // Array of amounts that should be charged at a later date.
-        pendingCharges: [{
+        amount: [{
             type:'number'
         }],
 
